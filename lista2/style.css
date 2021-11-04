@@ -49,3 +49,18 @@ h1 {
     color: black;
 
 }
+
+#p2 {
+
+    border: 1px solid #ef3239;
+    background-color: #ef3239;
+
+}
+
+#p2 p {
+
+    margin-left: 40px;
+    margin-right: 40px;
+    color: black;
+
+}
