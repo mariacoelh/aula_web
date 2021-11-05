@@ -79,3 +79,19 @@ h1 {
     color: black;
 
 }
+
+.boxer {
+
+    display: flex;
+    flex-wrap: stretch;
+    width: 150%;
+
+}
+
+.box {
+
+    width: 45%;
+    height: 50px;
+    margin: 10px;
+
+}
